@@ -1,0 +1,6 @@
+@DotNet8Authentication.Api_HostAddress = http://localhost:5258
+
+GET {{DotNet8Authentication.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
